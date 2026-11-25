@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mitali Agarwal</h1>
 
 <h3 align="center">AI Engineer | Full Stack Developer</h3>
